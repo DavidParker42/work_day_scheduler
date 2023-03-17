@@ -4,8 +4,8 @@
   ## Table of Contents
   1. [Description](#description)
   2. [Email](#email)
-  3. Application Type
-  4. Repostitory
+  3. [Application Type](#application-type)
+  4. [Repostitory](#repository)
 
   ## Description
 A calendar application that allows a user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. 
